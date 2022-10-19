@@ -1,0 +1,15 @@
+2022/10/13-12:36:56.601 3968ee Reusing MANIFEST /home/paullarbs/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/13-12:36:56.601 3968ee Recovering log #27
+2022/10/13-12:36:56.601 3968ee Reusing old log /home/paullarbs/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000027.log 
+2022/10/18-14:55:04.612 2aeab1 Level-0 table #32: started
+2022/10/18-14:55:04.614 2aeab1 Level-0 table #32: 84235 bytes OK
+2022/10/18-14:55:04.616 2aeab1 Delete type=0 #27
+2022/10/18-14:55:04.616 2aeab1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/10/18-14:55:04.616 2aeab1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01*\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x00L\x00D\x002\x00G\x00N\x00N\x00T\x000\x00-\x00U\x000\x004\x000\x00Y\x000\x00D\x002\x00C\x004\x00E' @ 27310 : 0
+2022/10/18-14:55:04.616 2aeab1 Compacting 1@1 + 1@2 files
+2022/10/18-14:55:04.618 2aeab1 Generated table #33@1: 43 keys, 1104 bytes
+2022/10/18-14:55:04.618 2aeab1 Compacted 1@1 + 1@2 files => 1104 bytes
+2022/10/18-14:55:04.620 2aeab1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/18-14:55:04.620 2aeab1 Delete type=2 #29
+2022/10/18-14:55:04.620 2aeab1 Delete type=2 #32
+2022/10/18-14:55:04.620 2aeab1 Manual compaction at level-1 from '\x00\x01\x01\x03\x01*\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x00L\x00D\x002\x00G\x00N\x00N\x00T\x000\x00-\x00U\x000\x004\x000\x00Y\x000\x00D\x002\x00C\x004\x00E' @ 27310 : 0 .. (end); will stop at (end)

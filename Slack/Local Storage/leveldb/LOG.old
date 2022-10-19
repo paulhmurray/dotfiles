@@ -1,0 +1,174 @@
+2022/09/15-08:00:38.664 3f67f Reusing MANIFEST /home/paullarbs/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2022/09/15-08:00:38.666 3f67f Recovering log #95
+2022/09/15-08:00:38.667 3f67f Reusing old log /home/paullarbs/.config/Slack/Local Storage/leveldb/000095.log 
+2022/09/15-08:02:38.829 3f751 Level-0 table #100: started
+2022/09/15-08:02:38.839 3f751 Level-0 table #100: 13133 bytes OK
+2022/09/15-08:02:38.840 3f751 Delete type=0 #95
+2022/09/15-11:36:38.822 56ede Level-0 table #102: started
+2022/09/15-11:36:38.831 56ede Level-0 table #102: 14579 bytes OK
+2022/09/15-11:36:38.832 56ede Delete type=0 #99
+2022/09/15-14:17:38.824 6806b Level-0 table #104: started
+2022/09/15-14:17:38.833 6806b Level-0 table #104: 14614 bytes OK
+2022/09/15-14:17:38.835 6806b Delete type=0 #101
+2022/09/15-21:06:38.880 91348 Level-0 table #106: started
+2022/09/15-21:06:38.890 91348 Level-0 table #106: 7307 bytes OK
+2022/09/15-21:06:38.906 91348 Delete type=0 #103
+2022/09/15-21:06:38.914 91348 Compacting 4@0 + 1@1 files
+2022/09/15-21:06:38.926 91348 Generated table #107@0: 16 keys, 5958 bytes
+2022/09/15-21:06:38.926 91348 Compacted 4@0 + 1@1 files => 5958 bytes
+2022/09/15-21:06:38.936 91348 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/15-21:06:38.936 91348 Delete type=2 #102
+2022/09/15-21:06:38.936 91348 Delete type=2 #100
+2022/09/15-21:06:38.936 91348 Delete type=2 #104
+2022/09/15-21:06:38.937 91348 Delete type=2 #106
+2022/09/15-21:06:38.937 91348 Delete type=2 #97
+2022/09/16-03:57:38.880 be2c1 Level-0 table #109: started
+2022/09/16-03:57:38.897 be2c1 Level-0 table #109: 7207 bytes OK
+2022/09/16-03:57:38.908 be2c1 Delete type=0 #105
+2022/09/16-08:52:38.840 e2a84 Level-0 table #111: started
+2022/09/16-08:52:38.841 e2a84 Level-0 table #111: 10275 bytes OK
+2022/09/16-08:52:38.843 e2a84 Delete type=0 #108
+2022/09/16-10:45:38.833 ecf82 Level-0 table #113: started
+2022/09/16-10:45:38.843 ecf82 Level-0 table #113: 11964 bytes OK
+2022/09/16-10:45:38.845 ecf82 Delete type=0 #110
+2022/09/16-12:39:38.827 fa785 Level-0 table #115: started
+2022/09/16-12:39:38.836 fa785 Level-0 table #115: 12805 bytes OK
+2022/09/16-12:39:38.838 fa785 Delete type=0 #112
+2022/09/16-12:39:38.838 fa785 Compacting 4@0 + 1@1 files
+2022/09/16-12:39:38.839 fa785 Generated table #116@0: 16 keys, 6446 bytes
+2022/09/16-12:39:38.839 fa785 Compacted 4@0 + 1@1 files => 6446 bytes
+2022/09/16-12:39:38.850 fa785 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/16-12:39:38.850 fa785 Delete type=2 #107
+2022/09/16-12:39:38.850 fa785 Delete type=2 #113
+2022/09/16-12:39:38.850 fa785 Delete type=2 #111
+2022/09/16-12:39:38.850 fa785 Delete type=2 #115
+2022/09/16-12:39:38.850 fa785 Delete type=2 #109
+2022/09/16-14:24:38.876 1045dc Level-0 table #118: started
+2022/09/16-14:24:38.886 1045dc Level-0 table #118: 11092 bytes OK
+2022/09/16-14:24:38.892 1045dc Delete type=0 #114
+2022/09/16-21:13:38.840 13025f Level-0 table #120: started
+2022/09/16-21:13:38.849 13025f Level-0 table #120: 7330 bytes OK
+2022/09/16-21:13:38.851 13025f Delete type=0 #117
+2022/09/17-04:04:38.876 150652 Level-0 table #122: started
+2022/09/17-04:04:38.886 150652 Level-0 table #122: 7205 bytes OK
+2022/09/17-04:04:38.888 150652 Delete type=0 #119
+2022/09/17-10:55:38.849 18178c Level-0 table #124: started
+2022/09/17-10:55:38.858 18178c Level-0 table #124: 7213 bytes OK
+2022/09/17-10:55:38.868 18178c Delete type=0 #121
+2022/09/17-10:55:38.869 18178c Compacting 4@0 + 1@1 files
+2022/09/17-10:55:38.870 18178c Generated table #125@0: 16 keys, 6524 bytes
+2022/09/17-10:55:38.870 18178c Compacted 4@0 + 1@1 files => 6524 bytes
+2022/09/17-10:55:38.871 18178c compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/17-10:55:38.871 18178c Delete type=2 #122
+2022/09/17-10:55:38.871 18178c Delete type=2 #116
+2022/09/17-10:55:38.871 18178c Delete type=2 #118
+2022/09/17-10:55:38.871 18178c Delete type=2 #120
+2022/09/17-10:55:38.871 18178c Delete type=2 #124
+2022/09/17-15:29:38.874 19d044 Level-0 table #127: started
+2022/09/17-15:29:38.886 19d044 Level-0 table #127: 9990 bytes OK
+2022/09/17-15:29:38.887 19d044 Delete type=0 #123
+2022/09/17-22:20:38.859 1c9e28 Level-0 table #129: started
+2022/09/17-22:20:38.868 1c9e28 Level-0 table #129: 7200 bytes OK
+2022/09/17-22:20:38.869 1c9e28 Delete type=0 #126
+2022/09/18-05:11:38.869 1f28d3 Level-0 table #131: started
+2022/09/18-05:11:38.879 1f28d3 Level-0 table #131: 7205 bytes OK
+2022/09/18-05:11:38.888 1f28d3 Delete type=0 #128
+2022/09/18-12:02:38.844 21d6d4 Level-0 table #133: started
+2022/09/18-12:02:38.853 21d6d4 Level-0 table #133: 7202 bytes OK
+2022/09/18-12:02:38.854 21d6d4 Delete type=0 #130
+2022/09/18-12:02:38.854 21d6d4 Compacting 4@0 + 1@1 files
+2022/09/18-12:02:38.856 21d6d4 Generated table #134@0: 16 keys, 6534 bytes
+2022/09/18-12:02:38.856 21d6d4 Compacted 4@0 + 1@1 files => 6534 bytes
+2022/09/18-12:02:38.857 21d6d4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/18-12:02:38.857 21d6d4 Delete type=2 #129
+2022/09/18-12:02:38.857 21d6d4 Delete type=2 #133
+2022/09/18-12:02:38.857 21d6d4 Delete type=2 #131
+2022/09/18-12:02:38.857 21d6d4 Delete type=2 #125
+2022/09/18-12:02:38.857 21d6d4 Delete type=2 #127
+2022/09/18-18:51:38.840 24773c Level-0 table #136: started
+2022/09/18-18:51:38.850 24773c Level-0 table #136: 7292 bytes OK
+2022/09/18-18:51:38.853 24773c Delete type=0 #132
+2022/09/19-01:42:38.869 2715ef Level-0 table #138: started
+2022/09/19-01:42:38.879 2715ef Level-0 table #138: 7212 bytes OK
+2022/09/19-01:42:38.880 2715ef Delete type=0 #135
+2022/09/19-08:33:38.829 29b540 Level-0 table #140: started
+2022/09/19-08:33:38.838 29b540 Level-0 table #140: 7207 bytes OK
+2022/09/19-08:33:38.840 29b540 Delete type=0 #137
+2022/09/19-12:18:38.818 2b160a Level-0 table #142: started
+2022/09/19-12:18:38.828 2b160a Level-0 table #142: 13299 bytes OK
+2022/09/19-12:18:38.829 2b160a Delete type=0 #139
+2022/09/19-12:18:38.829 2b160a Compacting 4@0 + 1@1 files
+2022/09/19-12:18:38.831 2b160a Generated table #143@0: 16 keys, 6646 bytes
+2022/09/19-12:18:38.831 2b160a Compacted 4@0 + 1@1 files => 6646 bytes
+2022/09/19-12:18:38.833 2b160a compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/19-12:18:38.833 2b160a Delete type=2 #134
+2022/09/19-12:18:38.833 2b160a Delete type=2 #140
+2022/09/19-12:18:38.833 2b160a Delete type=2 #138
+2022/09/19-12:18:38.833 2b160a Delete type=2 #142
+2022/09/19-12:18:38.833 2b160a Delete type=2 #136
+2022/09/19-14:33:38.839 2c0388 Level-0 table #145: started
+2022/09/19-14:33:38.849 2c0388 Level-0 table #145: 11924 bytes OK
+2022/09/19-14:33:38.851 2c0388 Delete type=0 #141
+2022/09/19-16:51:38.820 2d0c6c Level-0 table #147: started
+2022/09/19-16:51:38.829 2d0c6c Level-0 table #147: 12753 bytes OK
+2022/09/19-16:51:38.831 2d0c6c Delete type=0 #144
+2022/09/19-23:31:38.847 2fc549 Level-0 table #149: started
+2022/09/19-23:31:38.857 2fc549 Level-0 table #149: 7629 bytes OK
+2022/09/19-23:31:38.859 2fc549 Delete type=0 #146
+2022/09/20-06:22:38.895 325cf1 Level-0 table #151: started
+2022/09/20-06:22:38.905 325cf1 Level-0 table #151: 7211 bytes OK
+2022/09/20-06:22:38.907 325cf1 Delete type=0 #148
+2022/09/20-06:22:38.907 325cf1 Compacting 4@0 + 1@1 files
+2022/09/20-06:22:38.909 325cf1 Generated table #152@0: 16 keys, 6874 bytes
+2022/09/20-06:22:38.909 325cf1 Compacted 4@0 + 1@1 files => 6874 bytes
+2022/09/20-06:22:38.910 325cf1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/20-06:22:38.911 325cf1 Delete type=2 #147
+2022/09/20-06:22:38.911 325cf1 Delete type=2 #145
+2022/09/20-06:22:38.911 325cf1 Delete type=2 #149
+2022/09/20-06:22:38.911 325cf1 Delete type=2 #151
+2022/09/20-06:22:38.911 325cf1 Delete type=2 #143
+2022/09/20-08:20:38.832 336147 Level-0 table #154: started
+2022/09/20-08:20:38.842 336147 Level-0 table #154: 11718 bytes OK
+2022/09/20-08:20:38.852 336147 Delete type=0 #150
+2022/09/20-14:55:38.837 3606fe Level-0 table #156: started
+2022/09/20-14:55:38.847 3606fe Level-0 table #156: 8217 bytes OK
+2022/09/20-14:55:38.849 3606fe Delete type=0 #153
+2022/09/20-15:55:38.802 36787c Level-0 table #158: started
+2022/09/20-15:55:38.813 36787c Level-0 table #158: 12634 bytes OK
+2022/09/20-15:55:38.814 36787c Delete type=0 #155
+2022/09/20-22:46:38.832 390c7c Level-0 table #160: started
+2022/09/20-22:46:38.842 390c7c Level-0 table #160: 7208 bytes OK
+2022/09/20-22:46:38.852 390c7c Delete type=0 #157
+2022/09/20-22:46:38.852 390c7c Compacting 4@0 + 1@1 files
+2022/09/20-22:46:38.854 390c7c Generated table #161@0: 17 keys, 7047 bytes
+2022/09/20-22:46:38.854 390c7c Compacted 4@0 + 1@1 files => 7047 bytes
+2022/09/20-22:46:38.855 390c7c compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/20-22:46:38.855 390c7c Delete type=2 #160
+2022/09/20-22:46:38.855 390c7c Delete type=2 #154
+2022/09/20-22:46:38.855 390c7c Delete type=2 #156
+2022/09/20-22:46:38.855 390c7c Delete type=2 #158
+2022/09/20-22:46:38.855 390c7c Delete type=2 #152
+2022/09/21-05:35:38.806 3bbbb4 Level-0 table #163: started
+2022/09/21-05:35:38.815 3bbbb4 Level-0 table #163: 7342 bytes OK
+2022/09/21-05:35:38.817 3bbbb4 Delete type=0 #159
+2022/09/21-09:46:38.815 3d6128 Level-0 table #165: started
+2022/09/21-09:46:38.825 3d6128 Level-0 table #165: 10088 bytes OK
+2022/09/21-09:46:38.826 3d6128 Delete type=0 #162
+2022/09/21-13:42:38.820 3eee6d Level-0 table #167: started
+2022/09/21-13:42:38.830 3eee6d Level-0 table #167: 10174 bytes OK
+2022/09/21-13:42:38.831 3eee6d Delete type=0 #164
+2022/09/21-20:33:38.872 19743 Level-0 table #169: started
+2022/09/21-20:33:38.881 19743 Level-0 table #169: 7214 bytes OK
+2022/09/21-20:33:38.883 19743 Delete type=0 #166
+2022/09/21-20:33:38.883 19743 Compacting 4@0 + 1@1 files
+2022/09/21-20:33:38.884 19743 Generated table #170@0: 17 keys, 7154 bytes
+2022/09/21-20:33:38.884 19743 Compacted 4@0 + 1@1 files => 7154 bytes
+2022/09/21-20:33:38.885 19743 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/21-20:33:38.886 19743 Delete type=2 #161
+2022/09/21-20:33:38.886 19743 Delete type=2 #163
+2022/09/21-20:33:38.886 19743 Delete type=2 #167
+2022/09/21-20:33:38.886 19743 Delete type=2 #169
+2022/09/21-20:33:38.886 19743 Delete type=2 #165
+2022/09/22-03:24:38.835 43bf9 Level-0 table #172: started
+2022/09/22-03:24:38.845 43bf9 Level-0 table #172: 7205 bytes OK
+2022/09/22-03:24:38.856 43bf9 Delete type=0 #168
