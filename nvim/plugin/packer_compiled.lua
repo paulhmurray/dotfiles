@@ -216,6 +216,11 @@ _G.packer_plugins = {
     path = "/home/paulm/.local/share/nvim/site/pack/packer/start/vim-ReplaceWithRegister",
     url = "https://github.com/inkarkat/vim-ReplaceWithRegister"
   },
+  ["vim-fugitive"] = {
+    loaded = true,
+    path = "/home/paulm/.local/share/nvim/site/pack/packer/start/vim-fugitive",
+    url = "https://github.com/tpope/vim-fugitive"
+  },
   ["vim-maximizer"] = {
     loaded = true,
     path = "/home/paulm/.local/share/nvim/site/pack/packer/start/vim-maximizer",
